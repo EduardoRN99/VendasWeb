@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\facul\\VendasWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{583683BA-4B38-42CA-A17B-D393E2776592}|Api.Vendas\\Api.Vendas.csproj|c:\\facul\\vendasweb\\api.vendas\\controllers\\pessoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{583683BA-4B38-42CA-A17B-D393E2776592}|Api.Vendas\\Api.Vendas.csproj|solutionrelative:api.vendas\\controllers\\pessoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{583683BA-4B38-42CA-A17B-D393E2776592}|Api.Vendas\\Api.Vendas.csproj|c:\\facul\\vendasweb\\api.vendas\\repositorio\\pessoarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{583683BA-4B38-42CA-A17B-D393E2776592}|Api.Vendas\\Api.Vendas.csproj|solutionrelative:api.vendas\\repositorio\\pessoarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{583683BA-4B38-42CA-A17B-D393E2776592}|Api.Vendas\\Api.Vendas.csproj|c:\\facul\\vendasweb\\api.vendas\\repositorio\\produtorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{583683BA-4B38-42CA-A17B-D393E2776592}|Api.Vendas\\Api.Vendas.csproj|solutionrelative:api.vendas\\repositorio\\produtorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{583683BA-4B38-42CA-A17B-D393E2776592}|Api.Vendas\\Api.Vendas.csproj|c:\\facul\\vendasweb\\api.vendas\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{583683BA-4B38-42CA-A17B-D393E2776592}|Api.Vendas\\Api.Vendas.csproj|solutionrelative:api.vendas\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{583683BA-4B38-42CA-A17B-D393E2776592}|Api.Vendas\\Api.Vendas.csproj|c:\\facul\\vendasweb\\api.vendas\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{583683BA-4B38-42CA-A17B-D393E2776592}|Api.Vendas\\Api.Vendas.csproj|solutionrelative:api.vendas\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE429D53-C5A8-42E4-A0DD-EC5DC867CF0B}|Api.Comum\\Api.Comum.csproj|C:\\facul\\VendasWeb\\api.comum\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE429D53-C5A8-42E4-A0DD-EC5DC867CF0B}|Api.Comum\\Api.Comum.csproj|solutionrelative:api.comum\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProdutoRepositorio.cs",
+              "DocumentMoniker": "C:\\facul\\VendasWeb\\Api.Vendas\\Repositorio\\ProdutoRepositorio.cs",
+              "RelativeDocumentMoniker": "Api.Vendas\\Repositorio\\ProdutoRepositorio.cs",
+              "ToolTip": "C:\\facul\\VendasWeb\\Api.Vendas\\Repositorio\\ProdutoRepositorio.cs",
+              "RelativeToolTip": "Api.Vendas\\Repositorio\\ProdutoRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T01:03:49.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PessoaRepositorio.cs",
+              "DocumentMoniker": "C:\\facul\\VendasWeb\\Api.Vendas\\Repositorio\\PessoaRepositorio.cs",
+              "RelativeDocumentMoniker": "Api.Vendas\\Repositorio\\PessoaRepositorio.cs",
+              "ToolTip": "C:\\facul\\VendasWeb\\Api.Vendas\\Repositorio\\PessoaRepositorio.cs",
+              "RelativeToolTip": "Api.Vendas\\Repositorio\\PessoaRepositorio.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwCgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T01:03:31.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PessoaController.cs",
+              "DocumentMoniker": "C:\\facul\\VendasWeb\\Api.Vendas\\Controllers\\PessoaController.cs",
+              "RelativeDocumentMoniker": "Api.Vendas\\Controllers\\PessoaController.cs",
+              "ToolTip": "C:\\facul\\VendasWeb\\Api.Vendas\\Controllers\\PessoaController.cs",
+              "RelativeToolTip": "Api.Vendas\\Controllers\\PessoaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T00:36:58.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\facul\\VendasWeb\\Api.Vendas\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "Api.Vendas\\Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\facul\\VendasWeb\\Api.Vendas\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "Api.Vendas\\Controllers\\ProdutoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T00:36:28.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\facul\\VendasWeb\\Api.Comum\\Pessoa.cs",
+              "RelativeDocumentMoniker": "Api.Comum\\Pessoa.cs",
+              "ToolTip": "C:\\facul\\VendasWeb\\Api.Comum\\Pessoa.cs",
+              "RelativeToolTip": "Api.Comum\\Pessoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T00:13:54.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\facul\\VendasWeb\\Api.Vendas\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Api.Vendas\\appsettings.Development.json",
+              "ToolTip": "C:\\facul\\VendasWeb\\Api.Vendas\\appsettings.Development.json",
+              "RelativeToolTip": "Api.Vendas\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-26T00:08:54.674Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
