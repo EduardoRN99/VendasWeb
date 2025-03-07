@@ -1,14 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\facul\\VendasWeb\\Api.Vendas\\Api.Vendas.csproj": {}
+    "C:\\tESTE\\VendasWeb\\Api.Vendas\\Api.Vendas.csproj": {}
   },
   "projects": {
-    "C:\\facul\\VendasWeb\\Api.Comum\\Api.Comum.csproj": {
+    "C:\\tESTE\\VendasWeb\\Api.Comum\\Api.Comum.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\facul\\VendasWeb\\Api.Comum\\Api.Comum.csproj",
+        "projectUniqueName": "C:\\tESTE\\VendasWeb\\Api.Comum\\Api.Comum.csproj",
         "projectName": "Api.Comum",
-        "projectPath": "C:\\facul\\VendasWeb\\Api.Comum\\Api.Comum.csproj",
+        "projectPath": "C:\\tESTE\\VendasWeb\\Api.Comum\\Api.Comum.csproj",
+        "UsingMicrosoftNETSdk": false,
         "frameworks": {
           "net48": {
             "projectReferences": {}
@@ -19,20 +20,20 @@
         "net48": {}
       }
     },
-    "C:\\facul\\VendasWeb\\Api.Vendas\\Api.Vendas.csproj": {
+    "C:\\tESTE\\VendasWeb\\Api.Vendas\\Api.Vendas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\facul\\VendasWeb\\Api.Vendas\\Api.Vendas.csproj",
+        "projectUniqueName": "C:\\tESTE\\VendasWeb\\Api.Vendas\\Api.Vendas.csproj",
         "projectName": "Api.Vendas",
-        "projectPath": "C:\\facul\\VendasWeb\\Api.Vendas\\Api.Vendas.csproj",
-        "packagesPath": "C:\\Users\\EDUARDO\\.nuget\\packages\\",
-        "outputPath": "C:\\facul\\VendasWeb\\Api.Vendas\\obj\\",
+        "projectPath": "C:\\tESTE\\VendasWeb\\Api.Vendas\\Api.Vendas.csproj",
+        "packagesPath": "C:\\Users\\Ezequiel Correia\\.nuget\\packages\\",
+        "outputPath": "C:\\tESTE\\VendasWeb\\Api.Vendas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\EDUARDO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ezequiel Correia\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -48,8 +49,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\facul\\VendasWeb\\Api.Comum\\Api.Comum.csproj": {
-                "projectPath": "C:\\facul\\VendasWeb\\Api.Comum\\Api.Comum.csproj"
+              "C:\\tESTE\\VendasWeb\\Api.Comum\\Api.Comum.csproj": {
+                "projectPath": "C:\\tESTE\\VendasWeb\\Api.Comum\\Api.Comum.csproj"
               }
             }
           }
@@ -63,7 +64,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -105,7 +107,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
